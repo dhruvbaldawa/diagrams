@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-07-15T04:10:47.067Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HYmYYWav2BovYjdoSliG" version="24.6.5" type="github">
+  <diagram name="Page-1" id="-ixu8TWhVMnrmNFV3sjS">
+    <mxGraphModel dx="933" dy="1272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="780" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-2" value="Audio" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-3" value="Video" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-4" value="Text" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-5" value="Podcasts" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-6" value="Audiobooks" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-7" value="Youtube" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-8" value="Documentaries" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-9" value="Short courses" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-10" value="Articles" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-11" value="Newsletters" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-12" value="Reddit" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-14" value="Hacker News" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-15" value="Specialized Apps" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-16" value="Duolingo" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-17" value="Blinkist" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-18" value="Inshorts" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-19" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.reddit;fillColor=#F3F8FC;gradientColor=#B4D2F0" vertex="1" parent="1">
+          <mxGeometry x="460" y="555" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-23" value="Sources of Passive Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="700" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-13" value="" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="Cigw1MH7VohiPwUIxKjb-25">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-128.png" vertex="1" parent="Cigw1MH7VohiPwUIxKjb-25">
+          <mxGeometry x="65" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cigw1MH7VohiPwUIxKjb-26" value="Medium" style="rounded=1;fontFamily=Tahoma;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
