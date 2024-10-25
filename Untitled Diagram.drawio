@@ -146,16 +146,16 @@
         <mxCell id="dD-QvV8M-LuQrzE1Qj0J-53" value="" style="curved=1;endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;fillColor=#f8cecc;strokeColor=#b85450;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-62" y="869" as="sourcePoint" />
-            <mxPoint x="675" y="647" as="targetPoint" />
+            <mxPoint x="678" y="614" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="28" y="632" />
+              <mxPoint x="35" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dD-QvV8M-LuQrzE1Qj0J-54" value="" style="curved=1;endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-63" y="871" as="sourcePoint" />
-            <mxPoint x="678" y="645" as="targetPoint" />
+            <mxPoint x="680" y="609" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-74" y="554" />
             </Array>
@@ -169,12 +169,12 @@
         </mxCell>
         <mxCell id="dD-QvV8M-LuQrzE1Qj0J-57" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#CCCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="196" y="772" as="sourcePoint" />
-            <mxPoint x="148" y="741" as="targetPoint" />
+            <mxPoint x="231.5" y="712" as="sourcePoint" />
+            <mxPoint x="183.5" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dD-QvV8M-LuQrzE1Qj0J-58" value="Diminishing returns for traditional learning techniques, as you go through more sources" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="179" y="787" width="226" height="30" as="geometry" />
+          <mxGeometry x="214.5" y="727" width="226" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dD-QvV8M-LuQrzE1Qj0J-59" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;startSize=8;endSize=8;curved=1;strokeColor=#CCCCCC;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
